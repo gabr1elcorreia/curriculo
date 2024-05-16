@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<!-- @falvojr: Reference article https://www.w3schools.com/howto/howto_website_create_resume.asp -->
+<!-- @falvojr: Useful link to use fontawesome (fa) icons: https://fontawesome.com/v4/icons/ -->
+<html lang="pt-BR">
+
+  <head>
+    <title>Gabriel Correia</title>
+    
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <style>
+      html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+    </style>
+    
+  </head>
+
+  <body class="w3-light-grey" cz-shortcut-listen="true">
+  
+    <!-- Page Container -->
+    <div class="w3-content w3-margin-top" style="max-width:1400px;">
+  
+      <!-- The Grid -->
+      <div class="w3-row-padding">
+  
+        <!-- Left Column -->
+        <div class="w3-third">
+  
+          <div class="w3-white w3-text-grey w3-card-4">
+            <!-- @falvojr: This container has been modified to not use a profile picture. -->
+            <div class="w3-container">
+              <h2>Gabriel Correia</h2>
+            </div>
+            <div class="w3-container">
+              <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Designer gráfico</p>
+              <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Salvador - BA</p>
+              <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>eu.gabrieucorreia@gmail.com</p>
+              <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>(71) 9 8200-4278</p>
+              <hr>
+  
+              <p class="w3-large">
+                <b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b>
+              </p>
+              <p>Photoshop</p>
+              <div class="w3-light-grey w3-round-xlarge w3-small">
+                <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">80%</div>
+              </div>
+              <p>Illustrator</p>
+              <div class="w3-light-grey w3-round-xlarge w3-small">
+                <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:40%">40%</div>
+              </div>
+              <p>Premiere</p>
+              <div class="w3-light-grey w3-round-xlarge w3-small">
+                <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:30%">20%</div>
+              </div>
+              <p>Figma</p>
+              <div class="w3-light-grey w3-round-xlarge w3-small">
+                <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">50%</div>
+              </div>
+              <br>
+  
+              <p class="w3-large w3-text-theme">
+                <b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Idiomas</b>
+              </p>
+              <p>Português</p>
+              <div class="w3-light-grey w3-round-xlarge">
+                <div class="w3-round-xlarge w3-teal" style="height:24px;width:90%"></div>
+              </div>
+              <p>Inglês</p>
+              <div class="w3-light-grey w3-round-xlarge">
+                <div class="w3-round-xlarge w3-teal" style="height:24px;width:20%"></div>
+              </div>
+              <br>
+            </div>
+          </div><br>
+  
+          <!-- End Left Column -->
+        </div>
+  
+        <!-- Right Column -->
+        <div class="w3-twothird">
+    
+          <div class="w3-container w3-card w3-white w3-margin-bottom">
+            <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-terminal fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Sobre</h2>
+            <p>Designer gráfico desde os 15 anos, possuo uma vasta experiência em criar soluções visuais que agregam valor a diversas marcas.
+			Tenho um histórico comprovado de trabalho com organizações de e-sports e agências de tráfego pago, onde desenvolvi campanhas visuais impactantes e de alto desempenho.
+			Atualmente, atuo como social media e designer gráfico, utilizando minha expertise para potencializar a comunicação visual e digital das empresas com as quais colaboro.
+			Meu portfólio inclui uma variedade de projetos que demonstram minha habilidade em design gráfico, identidade visual, marketing digital e gestão de redes sociais.</p>
+          </div>
+
+          <div class="w3-container w3-card w3-white w3-margin-bottom">
+            <h2 class="w3-text-grey w3-padding-16">
+              <i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Experiências
+            </h2>
+            <div class="w3-container">
+              <h5 class="w3-opacity"><b>Tocatambor</b> | <i>Designer gráfico & Social media</i></h5>
+              <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Novembro de 2023 - <span class="w3-tag w3-teal w3-round">Atual</span></h6>
+              <p>
+                Responsável por toda criação de cards de divulgação, promoções e eventos da empresa. 
+                Além de criação de cards e artes no geral, também era responsável pela edição dos criativos.
+                </p>
+            </div>
+            <div class="w3-container">
+              <h5 class="w3-opacity"><b>Inhouse.gg</b> | <i>Designer gráfico (voluntário)</i></h5>
+              <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Novembro de 2021 - <span class="w3-tag w3-teal w3-round">Atual</span></h6>
+              <p>Criação de artes e cards para promover lançamento de projetos únicos. Algum dos mesmos para campanhas em parceria do Inhouse com a Riot Games Brasil no cenário de League of Legends e Valorant.</p>
+            </div>
+			<div class="w3-container">
+              <h5 class="w3-opacity"><b>Rede Sky</b> | <i>Designer gráfico (freelancer)</i></h5>
+              <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Julho de 2021 - Agosto de 2021</h6>
+              <p>Responsável pela criação de cards de promoção de férias e de sorteios para a temporada.</p>
+            </div>
+			<div class="w3-container">
+              <h5 class="w3-opacity"><b>Orange Kingdom</b> | <i>Designer gráfico (voluntário)</i></h5>
+              <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Novembro de 2019 - Fevereiro de 2024</h6>
+              <p>Gerenciamento das redes sociais no ambiente de League of Legends e criação de cards para dia de jogos e afins.</p>
+            </div>
+			<div class="w3-container">
+              <h5 class="w3-opacity"><b>Old Skulls Univassouras</b> | <i>Designer gráfico (freelancer)</i></h5>
+              <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Janeiro de 2023 - Janeiro de 2023</h6>
+              <p>Criação da identidade visual para o time de League of Legends da Old Skull Univassouras.</p>
+            </div>
+			<div class="w3-container">
+              <h5 class="w3-opacity"><b>Energise Club</b> | <i>Designer gráfico (freelancer)</i></h5>
+              <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Abril de 2023 - Abril de 2023</h6>
+              <p>Responsável pela criação de toda identidade visual da organização.</p>
+              <hr>
+			</div>
+          </div>
+  
+          <div class="w3-container w3-card w3-white">
+            <h2 class="w3-text-grey w3-padding-16">
+              <i class="fa fa-graduation-cap fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Formação
+            </h2>
+            <div class="w3-container">
+              <h5 class="w3-opacity"><b>UNOPAR</b> — <i>Administração, Superior</i></h5>
+              <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Fevereiro de 2023 - <span class="w3-tag w3-teal w3-round">Atual</span></h6>
+              <p>
+            </div>
+            <div class="w3-container">
+              <h5 class="w3-opacity"><b>SENAI CIMATEC</b> — <i>Computação Gráfica, Técnico</i></h5>
+              <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Janeiro de 2021 - Julho de 2021</h6>
+            </div>
+			<div class="w3-container">
+              <h5 class="w3-opacity"><b>COLÉGIO ESTADUAL MESTRE PAULO DOS ANJOS</b> — <i>Ensino médio</i></h5>
+              <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Janeiro de 2021 - Julho de 2021</h6>
+			</div>
+          </div>
+
+          <div class="w3-container w3-card w3-white w3-margin-bottom">
+            <h2 class="w3-text-grey w3-padding-16">
+              <i class="fa fa-behance fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Projetos
+            </h2>
+            <div class="w3-container">
+              <h6 class="w3-text-teal">
+                <i class="fa fa-behance fa-fw w3-margin-right"></i>
+                <a href="https://www.behance.net/gallery/177675165/LOS-Kakavel-Brand-identity-Stream-pack">LOS Kakavel</a>
+              </h6>
+              <p>Reponsável pela criação da identidade visual do CEO da organização de eSports @losgrandesgg e empresário <b>Kakavel</b></p>
+            </div>
+            <div class="w3-container">
+              <h6 class="w3-text-teal">
+                <i class="fa fa-behance fa-fw w3-margin-right"></i>
+                <a href="https://www.behance.net/gallery/167290851/Inhouse-Valorant-x-Riot-Games">Inhouse Valorant</a>
+              </h6>
+              <p>Reponsável pela criação da identidade visual do CEO da organização de eSports @losgrandesgg e empresário <b>Kakavel</b></p>
+            </div>
+			<div class="w3-container">
+              <h6 class="w3-text-teal">
+                <i class="fa fa-behance fa-fw w3-margin-right"></i>
+                <a href="https://www.behance.net/gallery/168976313/Energise-Club">Energise Club</a>
+              </h6>
+              <p>Energise Club é uma organização de eSports portuguesa com foco em cenários competitivos de jogos de FPS.</p>
+              <hr>
+            </div>
+          </div>
+  
+          <!-- End Right Column -->
+        </div>
+  
+        <!-- End Grid -->
+      </div>
+  
+      <!-- End Page Container -->
+    </div>
+  
+    <footer class="w3-container w3-teal w3-center w3-margin-top">
+      <p>Minhas Redes Sociais</p>
+      <a href="https://x.com/fwizyx" target="_blank"><i class="fa fa-twitter w3-hover-opacity"></i></a>
+	  <a href="https://instagram.com/gabr1elcorreia" target="_blank"><i class="fa fa-instagram w3-hover-opacity"></i></a>
+	  <a href="https://behance.net/fwizy" target="_blank"><i class="fa fa-behance w3-hover-opacity"></i></a>
+      <a href="https://www.linkedin.com/in/gabr1elcorreia" target="_blank"><i class="fa fa-linkedin w3-hover-opacity"></i></a>
+      <p> </p>
+	  <p> </p>
+    </footer>
+  </body>
+
+</html>
